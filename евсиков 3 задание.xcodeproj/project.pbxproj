@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		490C20CD2790BB3A005D65AB /* 3:1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 490C20CC2790BB3A005D65AB /* 3:1.swift */; };
 		49235F9C278F53C600B6142E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49235F9B278F53C600B6142E /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		490C20CC2790BB3A005D65AB /* 3:1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3:1.swift"; sourceTree = "<group>"; };
 		49235F98278F53C600B6142E /* евсиков 3 задание */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "евсиков 3 задание"; sourceTree = BUILT_PRODUCTS_DIR; };
 		49235F9B278F53C600B6142E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				49235F9B278F53C600B6142E /* main.swift */,
+				490C20CC2790BB3A005D65AB /* 3:1.swift */,
 			);
 			path = "евсиков 3 задание";
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				490C20CD2790BB3A005D65AB /* 3:1.swift in Sources */,
 				49235F9C278F53C600B6142E /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
